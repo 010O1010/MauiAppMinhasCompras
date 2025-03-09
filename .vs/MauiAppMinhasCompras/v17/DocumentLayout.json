@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\girgd\\source\\repos\\MauiAppMinhasCompras\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C8FBE080-DDAC-4612-9E3B-FF9AD720B9EE}|MauiAppMinhasCompras.csproj|c:\\users\\girgd\\source\\repos\\mauiappminhascompras\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{C8FBE080-DDAC-4612-9E3B-FF9AD720B9EE}|MauiAppMinhasCompras.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+      "AbsoluteMoniker": "D:0:0:{C8FBE080-DDAC-4612-9E3B-FF9AD720B9EE}|MauiAppMinhasCompras.csproj|c:\\users\\girgd\\source\\repos\\mauiappminhascompras\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8FBE080-DDAC-4612-9E3B-FF9AD720B9EE}|MauiAppMinhasCompras.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8FBE080-DDAC-4612-9E3B-FF9AD720B9EE}|MauiAppMinhasCompras.csproj|c:\\users\\girgd\\source\\repos\\mauiappminhascompras\\helpers\\sqlitedatabasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8FBE080-DDAC-4612-9E3B-FF9AD720B9EE}|MauiAppMinhasCompras.csproj|solutionrelative:helpers\\sqlitedatabasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -25,21 +29,33 @@
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "README.md",
-              "DocumentMoniker": "C:\\Users\\girgd\\source\\repos\\MauiAppMinhasCompras\\README.md",
-              "RelativeDocumentMoniker": "README.md",
-              "ToolTip": "C:\\Users\\girgd\\source\\repos\\MauiAppMinhasCompras\\README.md",
-              "RelativeToolTip": "README.md",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2025-03-03T00:05:40.763Z",
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\girgd\\source\\repos\\MauiAppMinhasCompras\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "C:\\Users\\girgd\\source\\repos\\MauiAppMinhasCompras\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T01:55:45.372Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SQLiteDatabaseHelper.cs",
+              "DocumentMoniker": "C:\\Users\\girgd\\source\\repos\\MauiAppMinhasCompras\\Helpers\\SQLiteDatabaseHelper.cs",
+              "RelativeDocumentMoniker": "Helpers\\SQLiteDatabaseHelper.cs",
+              "ToolTip": "C:\\Users\\girgd\\source\\repos\\MauiAppMinhasCompras\\Helpers\\SQLiteDatabaseHelper.cs",
+              "RelativeToolTip": "Helpers\\SQLiteDatabaseHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T00:13:31.921Z"
             }
           ]
         }
